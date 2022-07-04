@@ -11,7 +11,7 @@ h1 {
     color: orangered;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
@@ -44,4 +44,8 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 
+}
+
+.second-pra {
+    margin-right: 200px;
 }
