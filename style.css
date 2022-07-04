@@ -7,6 +7,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .orange-color {
     color: orangered;
 }
@@ -48,4 +52,33 @@ h1 {
 
 .second-pra {
     margin-right: 200px;
+}
+
+.exprience-item {
+    width: 50%;
+    height: 500px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+
+}
+
+.exprience-sec {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full-stack {
+    border-left: 7px solid tomato;
+}
+
+#junior {
+    border-left: 7px solid blue;
+}
+
+footer {
+    text-align: center;
 }
